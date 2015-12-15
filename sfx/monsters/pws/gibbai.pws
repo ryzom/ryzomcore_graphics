@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<PARTICLE_WORKSPACE>
+  <VERSION>0</VERSION>
+  <NAME>
+    <S>all gibbai</S>
+  </NAME>
+  <PS_LIST>
+    <NUM_NODES>18</NUM_NODES>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_cur_cast_debilitating_end_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 2 end</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_cur_cast_debilitating_end_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 2 end</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_cur_cast_debilitating_init_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 2 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_cur_cast_debilitating_init_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 2 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_cur_cast_debilitating_loop.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 2 loop</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 Spine2</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_cur_cast_heal_end.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 1 end</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\..\..\../_Ryzom/05_fx/monsters/mo_gibbai_mag_cur_cast_heal_init_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 1 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_cur_cast_heal_init_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 1 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_cur_cast_heal_loop.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 1 loop</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_cast_damaging_end.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>ZO_MO_Gibbai_magie_end_attack</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_cast_damaging_init_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>ZO_MO_Gibbai_magie_init_attack</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_cast_damaging_init_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>ZO_MO_Gibbai_magie_init_attack</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_cast_damaging_loop.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>ZO_MO_Gibbai_magie_loop_attack</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\..\..\../_Ryzom/05_fx/monsters/mo_gibbai_mag_off_cast_incapaciting_end.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 3 end</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\..\..\../_Ryzom/05_fx/monsters/mo_gibbai_mag_off_cast_incapaciting_loop.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 3 loop</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_incapacitating_init_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 3 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_gibbai_mag_off_incapacitating_init_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>magi 3 init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\_monsters_config\13.gibbai\zo_mo_gibbai.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\..\..\../_Ryzom/05_fx/monsters/pws/tempsol.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S/>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S/>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S/>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+  </PS_LIST>
+</PARTICLE_WORKSPACE>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PARTICLE_WORKSPACE>
+  <VERSION>0</VERSION>
+  <NAME>
+    <S/>
+  </NAME>
+  <PS_LIST>
+    <NUM_NODES>1</NUM_NODES>
+    <PROJECT_FILE>
+      <VERSION>1</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_h12_specialatk.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S/>
+      </TRIGGER_ANIMATION>
+    </PROJECT_FILE>
+  </PS_LIST>
+</PARTICLE_WORKSPACE>

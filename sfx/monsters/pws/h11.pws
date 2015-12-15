@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PARTICLE_WORKSPACE>
+  <VERSION>0</VERSION>
+  <NAME>
+    <S/>
+  </NAME>
+  <PS_LIST>
+    <NUM_NODES>1</NUM_NODES>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mo_h11_specialatk.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>TR_MO_H11_Atk_Spe</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S/>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S/>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+  </PS_LIST>
+</PARTICLE_WORKSPACE>

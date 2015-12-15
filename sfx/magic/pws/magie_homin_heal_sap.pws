@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<PARTICLE_WORKSPACE>
+  <VERSION>0</VERSION>
+  <NAME>
+    <S>sap</S>
+  </NAME>
+  <PS_LIST>
+    <NUM_NODES>4</NUM_NODES>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mag_cur_cast_healsap_end.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>fy_hom_magie_cur_end</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\homin\shape_fyros\fy_hom_skel_small_fat.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 Spine1</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mag_cur_cast_healsap_init_l.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>fy_hom_magie_cur_init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\homin\shape_fyros\fy_hom_skel_small_fat.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 L Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mag_cur_cast_healsap_init_r.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>fy_hom_magie_cur_init</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\homin\shape_fyros\fy_hom_skel_small_fat.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 R Hand</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+    <PROJECT_FILE>
+      <VERSION>2</VERSION>
+      <RELATIVE_PATH>
+        <S>..\mag_cur_cast_healsap_loop.ps</S>
+      </RELATIVE_PATH>
+      <TRIGGER_ANIMATION>
+        <S>fy_hom_magie_cur_loop</S>
+      </TRIGGER_ANIMATION>
+      <PARENT_SKEL_NAME>
+        <S>D:\_Ryzom\05_fx\config\homin\shape_fyros\fy_hom_skel_small_fat.skel</S>
+      </PARENT_SKEL_NAME>
+      <PARENT_BONE_NAME>
+        <S>Bip01 Spine1</S>
+      </PARENT_BONE_NAME>
+    </PROJECT_FILE>
+  </PS_LIST>
+</PARTICLE_WORKSPACE>
