@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<LIGO_MATERIAL>
+  <CHECK>1414352716</CHECK>
+  <VERSION>0</VERSION>
+  <ZONE_EDGE>
+    <VERSION>0</VERSION>
+    <VERTICES>
+      <VECTOR size="6">
+        <ELM>0.000000 -0.000000 0.000002</ELM>
+        <ELM>31.999542 -0.000000 0.000002</ELM>
+        <ELM>63.999092 -0.000001 0.000002</ELM>
+        <ELM>95.996155 -0.000001 0.000002</ELM>
+        <ELM>127.995697 -0.000002 0.000002</ELM>
+        <ELM>159.995239 -0.000002 0.000002</ELM>
+      </VECTOR>
+    </VERTICES>
+    <VERTICES_ID>
+      <VECTOR size="6">
+        <ELM>24</ELM>
+        <ELM>22</ELM>
+        <ELM>42</ELM>
+        <ELM>36</ELM>
+        <ELM>3</ELM>
+        <ELM>0</ELM>
+      </VECTOR>
+    </VERTICES_ID>
+    <ROTATION>3</ROTATION>
+    <OFFSET>0 1</OFFSET>
+  </ZONE_EDGE>
+</LIGO_MATERIAL>

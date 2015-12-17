@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NEL_WORLD_EDITOR_PROJECT>
+  <VERSION>2</VERSION>
+  <DATA_DIRECTORY VALUE="W:\Database\Landscape\ligo\jungle"/>
+  <CONTEXT VALUE="forest"/>
+  <DATABASE_ELEMENT FILENAME="exemple_worldedit.land" TYPE="landscape">
+    <PRIMITIVES VERSION="1">
+      <ROOT_PRIMITIVE TYPE="CPrimNode">
+        <ALIAS LAST_GENERATED="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>landscape</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING></STRING>
+        </PROPERTY>
+      </ROOT_PRIMITIVE>
+    </PRIMITIVES>
+  </DATABASE_ELEMENT>
+</NEL_WORLD_EDITOR_PROJECT>
