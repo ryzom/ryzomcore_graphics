@@ -1,0 +1,1097 @@
+<?xml version="1.0"?>
+<PRIMITIVES VERSION="0">
+  <ROOT_PRIMITIVE TYPE="CPrimNode">
+    <CHILD TYPE="CPrimNode">
+      <PROPERTY TYPE="string">
+        <NAME>class</NAME>
+        <STRING>flora</STRING>
+      </PROPERTY>
+      <PROPERTY TYPE="string">
+        <NAME>name</NAME>
+        <STRING>testroom flora forest</STRING>
+      </PROPERTY>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1742.01" Y="-5039.17" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_bigroot_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1757" Y="-5039.58" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_bigroot_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>selected</NAME>
+          <STRING></STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1772.4" Y="-5038.34" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_bigroot_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1783.54" Y="-5036.69" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_birch</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1742.56" Y="-5048.65" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_spiketree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1757.41" Y="-5049.07" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_fougere</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1773.09" Y="-5047.55" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s1_giant_trunk</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1784.91" Y="-5045.77" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s1_giant_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1743.52" Y="-5057.04" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_big_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1757.96" Y="-5057.04" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_buissonaepine</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1773.36" Y="-5055.53" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_buissonaepine</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_10</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1785.74" Y="-5054.29" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_champignou_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_11</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1744.49" Y="-5064.33" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_champignou_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1759.06" Y="-5064.88" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_champignou_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1786.97" Y="-5062.2" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s2_arbragrelot</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_15</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1745.17" Y="-5070.72" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>fo_s3_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_16</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+    </CHILD>
+    <CHILD TYPE="CPrimNode">
+      <PROPERTY TYPE="string">
+        <NAME>class</NAME>
+        <STRING>flora</STRING>
+      </PROPERTY>
+      <PROPERTY TYPE="string">
+        <NAME>name</NAME>
+        <STRING>testroom flora jungle</STRING>
+      </PROPERTY>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1780.92" Y="-4965.13" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s1_bamboo</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1793.3" Y="-4964.03" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s1_canopy_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1807.05" Y="-4963.21" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s2_big_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1821.07" Y="-4962.38" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s2_young_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1782.02" Y="-4975.03" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_banana_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1809.52" Y="-4973.66" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_bamboo</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1824.1" Y="-4973.66" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_bush_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1783.4" Y="-4983.83" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_dead_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1796.6" Y="-4983.01" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_fantree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1810.62" Y="-4983.01" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_fougere</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_10</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1824.65" Y="-4982.73" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_plante</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_11</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1784.5" Y="-4992.08" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_plantegrasse</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1797.42" Y="-4990.98" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>ju_s3_tree</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+    </CHILD>
+    <CHILD EXPANDED="false" TYPE="CPrimNode">
+      <PROPERTY TYPE="string">
+        <NAME>class</NAME>
+        <STRING>flora</STRING>
+      </PROPERTY>
+      <PROPERTY TYPE="string">
+        <NAME>name</NAME>
+        <STRING>testroom flora primeR</STRING>
+      </PROPERTY>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1663.02" Y="-4988.57" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S1_rotaflore_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1673.2" Y="-4988.29" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S1_rotaflore_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="1684.75" Y="-4987.47" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S1_rotaflore_C.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1698.5" Y="-4986.09" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_mycotree_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1663.3" Y="-5000.67" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_mycotree_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1674.57" Y="-5000.12" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_planipushes_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1686.95" Y="-4997.64" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_planipushes_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="1700.42" Y="-4996.27" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_planipushes_C.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="1664.67" Y="-5014.14" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_planipushes_D.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="1676.22" Y="-5013.32" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_toopetz_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1688.6" Y="-5010.29" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_toopetz_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_10</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1700.7" Y="-5007.27" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S2_toopetz_C.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_11</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="1713.35" Y="-4984.17" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S3_cokamool_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1714.45" Y="-4995.72" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S3_cokamool_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1715.55" Y="-5006.72" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S3_cokamool_C.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_14</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1666.32" Y="-5025.69" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S3_ploomweed_A.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_15</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD EXPANDED="false" TYPE="CPrimPoint">
+        <PT X="1678.42" Y="-5024.32" Z="0"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>PR_S3_ploomweed_B.plant</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>new_prim_16</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1</STRING>
+        </PROPERTY>
+      </CHILD>
+    </CHILD>
+  </ROOT_PRIMITIVE>
+</PRIMITIVES>

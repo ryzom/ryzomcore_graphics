@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PRIMITIVES VERSION="0">
+  <ROOT_PRIMITIVE TYPE="CPrimNode">
+    <PROPERTY TYPE="string">
+      <NAME>selected</NAME>
+      <STRING></STRING>
+    </PROPERTY>
+  </ROOT_PRIMITIVE>
+</PRIMITIVES>

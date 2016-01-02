@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<LIGO_TRANSITION>
+  <CHECK>1398032204</CHECK>
+  <VERSION>0</VERSION>
+  <EDGE_ZONES>
+    <ELM>
+      <VERSION>0</VERSION>
+      <VERTICES>
+        <VECTOR size="6">
+          <ELM>0.000000 0.000000 0.000000</ELM>
+          <ELM>32.000000 -0.000008 0.000000</ELM>
+          <ELM>63.999992 -0.000001 0.000000</ELM>
+          <ELM>96.000000 -0.000001 0.000000</ELM>
+          <ELM>127.999992 0.000014 0.000000</ELM>
+          <ELM>160.000000 -0.000002 0.000000</ELM>
+        </VECTOR>
+      </VERTICES>
+      <VERTICES_ID>
+        <VECTOR size="6">
+          <ELM>30</ELM>
+          <ELM>24</ELM>
+          <ELM>18</ELM>
+          <ELM>12</ELM>
+          <ELM>6</ELM>
+          <ELM>0</ELM>
+        </VECTOR>
+      </VERTICES_ID>
+      <ROTATION>3</ROTATION>
+      <OFFSET>0 1</OFFSET>
+    </ELM>
+    <ELM>
+      <VERSION>0</VERSION>
+      <VERTICES>
+        <VECTOR size="6">
+          <ELM>0.000000 0.000000 100.000000</ELM>
+          <ELM>32.000000 0.000000 100.000000</ELM>
+          <ELM>64.000000 0.000000 100.000000</ELM>
+          <ELM>96.000000 0.000000 100.000000</ELM>
+          <ELM>128.000000 0.000000 100.000000</ELM>
+          <ELM>160.000000 0.000000 100.000000</ELM>
+        </VECTOR>
+      </VERTICES>
+      <VERTICES_ID>
+        <VECTOR size="6">
+          <ELM>30</ELM>
+          <ELM>24</ELM>
+          <ELM>18</ELM>
+          <ELM>12</ELM>
+          <ELM>6</ELM>
+          <ELM>0</ELM>
+        </VECTOR>
+      </VERTICES_ID>
+      <ROTATION>3</ROTATION>
+      <OFFSET>0 1</OFFSET>
+    </ELM>
+    <ELM>
+      <VERSION>0</VERSION>
+      <VERTICES>
+        <VECTOR size="10">
+          <ELM>0.000015 -0.000017 0.000000</ELM>
+          <ELM>26.224564 -0.000014 4.743529</ELM>
+          <ELM>32.000031 -0.000029 28.227196</ELM>
+          <ELM>47.937637 -0.000028 55.498718</ELM>
+          <ELM>32.000031 -0.000029 85.992180</ELM>
+          <ELM>5.539139 0.499969 122.652641</ELM>
+          <ELM>64.000015 -0.000011 100.000000</ELM>
+          <ELM>96.000000 -0.000008 100.000000</ELM>
+          <ELM>128.000000 -0.000005 100.000000</ELM>
+          <ELM>160.000000 -0.000003 100.000000</ELM>
+        </VECTOR>
+      </VERTICES>
+      <VERTICES_ID>
+        <VECTOR size="10">
+          <ELM>41</ELM>
+          <ELM>40</ELM>
+          <ELM>39</ELM>
+          <ELM>38</ELM>
+          <ELM>37</ELM>
+          <ELM>56</ELM>
+          <ELM>47</ELM>
+          <ELM>57</ELM>
+          <ELM>21</ELM>
+          <ELM>20</ELM>
+        </VECTOR>
+      </VERTICES_ID>
+      <ROTATION>2</ROTATION>
+      <OFFSET>2 1</OFFSET>
+    </ELM>
+    <ELM>
+      <VERSION>0</VERSION>
+      <VERTICES>
+        <VECTOR size="10">
+          <ELM>0.000000 -0.000007 0.000000</ELM>
+          <ELM>32.000000 -0.000006 0.000000</ELM>
+          <ELM>64.000000 -0.000004 0.000000</ELM>
+          <ELM>96.000000 -0.000003 -1.137220</ELM>
+          <ELM>128.000000 -0.000001 5.496441</ELM>
+          <ELM>145.115448 -0.000001 28.227196</ELM>
+          <ELM>142.452789 -0.000001 55.498718</ELM>
+          <ELM>133.052124 -0.000001 85.992180</ELM>
+          <ELM>105.984909 -0.000002 122.652641</ELM>
+          <ELM>160.000000 0.000000 100.000000</ELM>
+        </VECTOR>
+      </VERTICES>
+      <VERTICES_ID>
+        <VECTOR size="10">
+          <ELM>30</ELM>
+          <ELM>36</ELM>
+          <ELM>62</ELM>
+          <ELM>49</ELM>
+          <ELM>63</ELM>
+          <ELM>4</ELM>
+          <ELM>9</ELM>
+          <ELM>14</ELM>
+          <ELM>19</ELM>
+          <ELM>24</ELM>
+        </VECTOR>
+      </VERTICES_ID>
+      <ROTATION>1</ROTATION>
+      <OFFSET>1 0</OFFSET>
+    </ELM>
+  </EDGE_ZONES>
+</LIGO_TRANSITION>
