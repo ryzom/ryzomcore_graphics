@@ -3,11 +3,7 @@
   <ROOT_PRIMITIVE TYPE="CPrimNode">
     <PROPERTY TYPE="string">
       <NAME>name</NAME>
-      <STRING>Fx_fyros_mainland.primitive</STRING>
-    </PROPERTY>
-    <PROPERTY TYPE="string">
-      <NAME>path</NAME>
-      <STRING>W:\Database\primitive_microlife\fyros\FX_fyros_mainland.primitive</STRING>
+      <STRING>fx_fyros_mainland</STRING>
     </PROPERTY>
     <CHILD EXPANDED="false" TYPE="CPrimNode">
       <PROPERTY TYPE="string">
