@@ -1,0 +1,4496 @@
+<?xml version="1.0"?>
+<PRIMITIVES VERSION="1">
+  <ROOT_PRIMITIVE TYPE="CPrimNode">
+    <ALIAS LAST_GENERATED="0"/>
+    <CHILD TYPE="CPrimNode">
+      <PROPERTY TYPE="string">
+        <NAME>class</NAME>
+        <STRING>flora</STRING>
+      </PROPERTY>
+      <PROPERTY TYPE="string">
+        <NAME>name</NAME>
+        <STRING>r2_roots_flora</STRING>
+      </PROPERTY>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38663.3" Y="-21113.3" Z="0.000000"/>
+        <ANGLE VALUE="2.50296"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_132_jh_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.1353</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.928391</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38775.6" Y="-21100.3" Z="0.000000"/>
+        <ANGLE VALUE="1.30373"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_132_ji_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.73917</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.19094</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38724.9" Y="-21079" Z="0.000000"/>
+        <ANGLE VALUE="6.26286"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_132_ji_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.20719</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.524866</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38721.4" Y="-21113.2" Z="0.000000"/>
+        <ANGLE VALUE="4.85865"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_132_ji_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.85302</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.805661</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38510.6" Y="-21234.8" Z="0.000000"/>
+        <ANGLE VALUE="5.30122"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_133_jg_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.01241</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.874963</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38546.9" Y="-21187.2" Z="0.000000"/>
+        <ANGLE VALUE="3.72769"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_133_jg_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.70993</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.17823</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38680.6" Y="-21180.8" Z="0.000000"/>
+        <ANGLE VALUE="3.19385"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_133_jh_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.36879</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.02991</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38620.6" Y="-21200.6" Z="0.000000"/>
+        <ANGLE VALUE="2.2531"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_133_jh_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.31081</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.0047</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38596.1" Y="-21160.7" Z="0.000000"/>
+        <ANGLE VALUE="2.58196"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_133_jh_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.21971</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.965093</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38611.4" Y="-21232.7" Z="0.000000"/>
+        <ANGLE VALUE="2.21034"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_133_jh_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.17919</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.51269</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38647.3" Y="-21256.7" Z="0.000000"/>
+        <ANGLE VALUE="2.19769"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_a_133_jh_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.56887</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.1169</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38613.2" Y="-21131.1" Z="0.000000"/>
+        <ANGLE VALUE="6.26248"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_a_133_jh_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.06518</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.897906</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38724.3" Y="-21184.3" Z="0.000000"/>
+        <ANGLE VALUE="2.4579"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_c_133_ji_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.52795</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.664324</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38759.1" Y="-21201.7" Z="0.000000"/>
+        <ANGLE VALUE="3.55338"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_133_ji_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.37686</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.598633</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38737.3" Y="-21248.8" Z="0.000000"/>
+        <ANGLE VALUE="0.770082"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_a_133_ji_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.25146</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.544115</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="39393.2" Y="-21233.3" Z="0.000000"/>
+        <ANGLE VALUE="5.78654"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_mycotree_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_mycotree_b_133_jm_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>5.79651</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.905704</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="39391.9" Y="-21267.7" Z="0.000000"/>
+        <ANGLE VALUE="4.89086"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_mycotree_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_mycotree_a_133_jm_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>6.92707</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.08235</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38532.2" Y="-21315.1" Z="0.000000"/>
+        <ANGLE VALUE="5.98348"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_a_134_jg_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.15933</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.938838</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38820" Y="-21300.1" Z="0.000000"/>
+        <ANGLE VALUE="5.75701"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_b_134_ji_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.64754</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.716321</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="38725" Y="-21353.1" Z="0.000000"/>
+        <ANGLE VALUE="1.75915"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_amoeba_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_amoeba_a_134_ji_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.66847</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.725422</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="39650.6" Y="-21318" Z="0.000000"/>
+        <ANGLE VALUE="5.78654"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_mycotree_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_mycotree_b_134_jn_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>5.79651</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.905704</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="39644.4" Y="-21291.8" Z="0.000000"/>
+        <ANGLE VALUE="1.68321"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_mycotree_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_mycotree_a_134_jn_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>5.75412</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.899081</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="37007.4" Y="-21887.8" Z="0.000000"/>
+        <ANGLE VALUE="1.56931"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_137_ix_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.841187</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.525742</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36986" Y="-21878" Z="0.000000"/>
+        <ANGLE VALUE="0.722719"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_137_ix_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.22285</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.764281</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36699.8" Y="-22013.1" Z="0.000000"/>
+        <ANGLE VALUE="2.2531"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_a_138_iv_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>3.0141</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.0047</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36716.6" Y="-22007.5" Z="0.000000"/>
+        <ANGLE VALUE="1.32061"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_c_138_iv_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>3.34792</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.19569</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36770.3" Y="-21969.2" Z="0.000000"/>
+        <ANGLE VALUE="2.63047"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_c_138_iv_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.59865</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.570946</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36698.5" Y="-22069.2" Z="0.000000"/>
+        <ANGLE VALUE="0.738826"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_b_138_iv_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.2399</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.895962</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36791.9" Y="-22022.4" Z="0.000000"/>
+        <ANGLE VALUE="3.56834"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_b_138_iv_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.56537</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.626148</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36874.9" Y="-22077.8" Z="0.000000"/>
+        <ANGLE VALUE="1.30373"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_138_iw_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.90551</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.19094</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36948.7" Y="-22054.9" Z="0.000000"/>
+        <ANGLE VALUE="6.26286"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_138_iw_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.839786</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.524866</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36944.3" Y="-21937.3" Z="0.000000"/>
+        <ANGLE VALUE="3.07553"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_138_iw_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.1159</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.697436</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36852.1" Y="-22068.8" Z="0.000000"/>
+        <ANGLE VALUE="0.395971"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_138_iw_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.19304</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.745653</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36921.4" Y="-22079" Z="0.000000"/>
+        <ANGLE VALUE="6.11099"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_138_iw_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.48156</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.925977</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36939.4" Y="-21978.4" Z="0.000000"/>
+        <ANGLE VALUE="0.904885"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_138_iw_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.851989</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.532493</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40425.1" Y="-22022.7" Z="0.000000"/>
+        <ANGLE VALUE="5.03065"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_c_138_js_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.15175</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.15175</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40388.1" Y="-22072.2" Z="0.000000"/>
+        <ANGLE VALUE="1.79347"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_138_js_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.531008</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.758583</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40408.2" Y="-22009.1" Z="0.000000"/>
+        <ANGLE VALUE="0.722719"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_138_js_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.614281</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.877544</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40475.1" Y="-22035.9" Z="0.000000"/>
+        <ANGLE VALUE="6.10236"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_138_js_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.568073</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.811533</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40440.7" Y="-22050.6" Z="0.000000"/>
+        <ANGLE VALUE="0.227419"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_138_js_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.461519</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.1538</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40439.4" Y="-22037.2" Z="0.000000"/>
+        <ANGLE VALUE="2.82491"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_138_js_14</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.519089</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.29772</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40626.6" Y="-22065.5" Z="0.000000"/>
+        <ANGLE VALUE="2.02338"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_c_138_jt_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.871685</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.871685</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40628.4" Y="-22077.4" Z="0.000000"/>
+        <ANGLE VALUE="0.763179"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_138_jt_11</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.596826</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.49206</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40573.1" Y="-22029.7" Z="0.000000"/>
+        <ANGLE VALUE="2.02856"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_138_jt_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.539</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.3475</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40605.8" Y="-22027.8" Z="0.000000"/>
+        <ANGLE VALUE="0.926553"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_138_jt_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.450118</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.12529</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40654.3" Y="-22031.4" Z="0.000000"/>
+        <ANGLE VALUE="1.79884"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_b_138_ju_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.27328</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.27328</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40681.9" Y="-22048.6" Z="0.000000"/>
+        <ANGLE VALUE="2.80631"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_138_ju_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.358268</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.511811</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40701.2" Y="-22056.2" Z="0.000000"/>
+        <ANGLE VALUE="3.44562"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_138_ju_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.696358</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.994797</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36773.4" Y="-22089.5" Z="0.000000"/>
+        <ANGLE VALUE="0.564906"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_a_139_iv_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.71224</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.90408</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36797.9" Y="-22138.4" Z="0.000000"/>
+        <ANGLE VALUE="4.08895"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_139_iv_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.90168</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.18855</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36718.3" Y="-22108.2" Z="0.000000"/>
+        <ANGLE VALUE="0.904885"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_139_iv_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.851989</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.532493</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36923.4" Y="-22155.7" Z="0.000000"/>
+        <ANGLE VALUE="3.6738"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_a_139_iw_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.25869</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.752895</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36894.8" Y="-22222.1" Z="0.000000"/>
+        <ANGLE VALUE="2.67189"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_c_139_iw_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.27188</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.811386</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36872.3" Y="-22140.9" Z="0.000000"/>
+        <ANGLE VALUE="4.47246"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_c_139_iw_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.18449</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.780175</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36892" Y="-22166.4" Z="0.000000"/>
+        <ANGLE VALUE="3.2297"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_c_139_iw_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.00929</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.717603</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36930" Y="-22234.3" Z="0.000000"/>
+        <ANGLE VALUE="3.53612"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_b_139_iw_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.60804</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.643217</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36858.5" Y="-22199.7" Z="0.000000"/>
+        <ANGLE VALUE="2.74361"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_b_139_iw_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.656</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.662401</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36885.4" Y="-22138.3" Z="0.000000"/>
+        <ANGLE VALUE="1.93057"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_139_iw_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.40288</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.8768</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36932.3" Y="-22093" Z="0.000000"/>
+        <ANGLE VALUE="2.58196"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_139_iw_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.54415</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.965093</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36810.6" Y="-22191.6" Z="0.000000"/>
+        <ANGLE VALUE="3.84523"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_139_iw_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.05885</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.661782</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36885.9" Y="-22114.3" Z="0.000000"/>
+        <ANGLE VALUE="1.05579"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_139_iw_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.86658</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.16661</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36972.3" Y="-22189.9" Z="0.000000"/>
+        <ANGLE VALUE="4.37466"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_b_139_ix_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.22127</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.888507</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40419.4" Y="-22124" Z="0.000000"/>
+        <ANGLE VALUE="3.5041"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_a_139_js_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.41195</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.941298</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40453.8" Y="-22144.9" Z="0.000000"/>
+        <ANGLE VALUE="1.32061"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_b_139_js_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>2.24075</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.49383</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40430.4" Y="-22180.9" Z="0.000000"/>
+        <ANGLE VALUE="3.4297"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_b_139_js_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.00844</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.00844</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40460.9" Y="-22185.8" Z="0.000000"/>
+        <ANGLE VALUE="4.50026"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_b_139_js_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.667821</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.667821</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40410.7" Y="-22226.2" Z="0.000000"/>
+        <ANGLE VALUE="4.08895"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_c_139_js_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.48364</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.48364</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40437.2" Y="-22192.6" Z="0.000000"/>
+        <ANGLE VALUE="5.64196"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_139_js_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.444702</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.635289</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40426.4" Y="-22110.1" Z="0.000000"/>
+        <ANGLE VALUE="4.74532"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_139_js_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.667197</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.953139</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40457.9" Y="-22113.7" Z="0.000000"/>
+        <ANGLE VALUE="5.89891"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_js_19</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.528599</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.3215</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40544.8" Y="-22080" Z="0.000000"/>
+        <ANGLE VALUE="2.63047"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_b_139_jt_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.902028</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.601352</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40576.7" Y="-22229.1" Z="0.000000"/>
+        <ANGLE VALUE="5.91157"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_139_jt_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.877302</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.25329</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40501.8" Y="-22144" Z="0.000000"/>
+        <ANGLE VALUE="1.48992"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_139_jt_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.796721</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.13817</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40599.8" Y="-22081.8" Z="0.000000"/>
+        <ANGLE VALUE="3.84466"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_139_jt_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.506782</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.723975</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40480.9" Y="-22218.8" Z="0.000000"/>
+        <ANGLE VALUE="0.688011"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_jt_21</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.598804</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.49701</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40634.1" Y="-22211.9" Z="0.000000"/>
+        <ANGLE VALUE="1.4627"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_jt_22</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.594946</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.48737</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40490.4" Y="-22161.2" Z="0.000000"/>
+        <ANGLE VALUE="2.46883"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_jt_23</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.295266</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.738166</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40504.8" Y="-22106.3" Z="0.000000"/>
+        <ANGLE VALUE="1.89989"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_jt_24</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.37116</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.9279</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40599.6" Y="-22098.9" Z="0.000000"/>
+        <ANGLE VALUE="5.35951"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_jt_25</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.531797</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.32949</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40695.1" Y="-22220.8" Z="0.000000"/>
+        <ANGLE VALUE="0.677848"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_a_139_ju_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.10052</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.73368</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40682.7" Y="-22208.7" Z="0.000000"/>
+        <ANGLE VALUE="6.09105"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_b_139_ju_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.971175</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.971175</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40650.4" Y="-22198.4" Z="0.000000"/>
+        <ANGLE VALUE="3.64811"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_139_ju_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.926715</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.32388</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40659.2" Y="-22113.3" Z="0.000000"/>
+        <ANGLE VALUE="3.35664"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_139_ju_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.66239</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.946272</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40668.4" Y="-22157.6" Z="0.000000"/>
+        <ANGLE VALUE="1.99309"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_ju_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.202161</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.505402</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40681.5" Y="-22103.8" Z="0.000000"/>
+        <ANGLE VALUE="5.32653"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_139_ju_14</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.559044</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.39761</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="36942.1" Y="-22254.1" Z="0.000000"/>
+        <ANGLE VALUE="4.46977"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_rotaflore_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_rotaflore_a_140_iw_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>3.11562</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.03854</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40417" Y="-22319.6" Z="0.000000"/>
+        <ANGLE VALUE="0.845824"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_140_js_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.594841</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.849773</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40402.1" Y="-22282.3" Z="0.000000"/>
+        <ANGLE VALUE="2.36701"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_140_js_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.809453</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.15636</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40420.9" Y="-22242.1" Z="0.000000"/>
+        <ANGLE VALUE="2.9275"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_140_js_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.04769</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.4967</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40442.6" Y="-22290.4" Z="0.000000"/>
+        <ANGLE VALUE="3.32942"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_js_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.572838</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.4321</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40473.6" Y="-22318.4" Z="0.000000"/>
+        <ANGLE VALUE="3.17122"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_js_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.301334</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.753334</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40436.4" Y="-22255.7" Z="0.000000"/>
+        <ANGLE VALUE="5.82911"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_js_14</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.269192</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.672979</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40417.6" Y="-22256.8" Z="0.000000"/>
+        <ANGLE VALUE="2.13153"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_js_15</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.214661</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.536653</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40489.7" Y="-22242.6" Z="0.000000"/>
+        <ANGLE VALUE="2.67189"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_a_140_jt_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.41726</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.944838</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40490.7" Y="-22300.9" Z="0.000000"/>
+        <ANGLE VALUE="3.48167"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_b_140_jt_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.573702</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.573702</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40629.1" Y="-22294.3" Z="0.000000"/>
+        <ANGLE VALUE="3.59749"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_c_140_jt_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.01003</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.01003</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40600.5" Y="-22269.8" Z="0.000000"/>
+        <ANGLE VALUE="0.862699"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_jt_18</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.458724</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.14681</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40527.1" Y="-22260.5" Z="0.000000"/>
+        <ANGLE VALUE="1.15359"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_jt_19</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.565184</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.41296</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40666.9" Y="-22253.2" Z="0.000000"/>
+        <ANGLE VALUE="2.21034"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_b_140_ju_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.777192</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.518128</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40728.3" Y="-22249.8" Z="0.000000"/>
+        <ANGLE VALUE="1.88148"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_cokamool_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_cokamool_c_140_ju_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.38195</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.38195</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40649.6" Y="-22296.2" Z="0.000000"/>
+        <ANGLE VALUE="5.8504"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_a_140_ju_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.40283</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.575472</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40716" Y="-22295.9" Z="0.000000"/>
+        <ANGLE VALUE="2.051"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_ploomweed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_ploomweed_b_140_ju_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.475037</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.678625</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40715.1" Y="-22272.1" Z="0.000000"/>
+        <ANGLE VALUE="6.09814"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_ju_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.209632</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.524079</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="40705.9" Y="-22244.5" Z="0.000000"/>
+        <ANGLE VALUE="1.75723"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s2_toopetz_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s2_toopetz_c_140_ju_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.373418</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.933546</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32320" Y="-22683.1" Z="0.000000"/>
+        <ANGLE VALUE="2.20497"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_142_ht_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.950771</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.594232</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32310.8" Y="-22704.8" Z="0.000000"/>
+        <ANGLE VALUE="6.01128"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_142_ht_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.818218</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.511386</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32344.7" Y="-22703.3" Z="0.000000"/>
+        <ANGLE VALUE="3.89355"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_a_142_hu_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>11.9705</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.19705</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32353.1" Y="-22661" Z="0.000000"/>
+        <ANGLE VALUE="5.82298"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_142_hu_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.11969</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.699808</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32380" Y="-22671.8" Z="0.000000"/>
+        <ANGLE VALUE="5.44906"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_142_hu_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.272</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.795001</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32365.5" Y="-22716.4" Z="0.000000"/>
+        <ANGLE VALUE="0.238925"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_142_hu_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.945712</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.59107</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32292.9" Y="-22841.5" Z="0.000000"/>
+        <ANGLE VALUE="5.18444"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_c_143_ht_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>11.6742</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.06129</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32307.3" Y="-22766.6" Z="0.000000"/>
+        <ANGLE VALUE="5.0598"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_c_143_ht_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>8.32367</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.756697</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32290.1" Y="-22744.7" Z="0.000000"/>
+        <ANGLE VALUE="3.82356"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_143_ht_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.822422</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.514014</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32283.2" Y="-22826.3" Z="0.000000"/>
+        <ANGLE VALUE="3.85156"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_143_ht_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.10828</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.692672</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32296.2" Y="-22804" Z="0.000000"/>
+        <ANGLE VALUE="1.10565"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_143_ht_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.896971</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.560607</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32357" Y="-22752.1" Z="0.000000"/>
+        <ANGLE VALUE="4.89086"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_b_143_hu_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>10.8235</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.08235</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32323" Y="-22731.9" Z="0.000000"/>
+        <ANGLE VALUE="4.08186"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_143_hu_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.988198</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.617624</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32374.8" Y="-22738.2" Z="0.000000"/>
+        <ANGLE VALUE="4.83526"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_143_hu_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.13538</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.709613</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32341.8" Y="-22755.5" Z="0.000000"/>
+        <ANGLE VALUE="3.7902"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_143_hu_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.11395</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.696219</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32374" Y="-22755.3" Z="0.000000"/>
+        <ANGLE VALUE="0.741894"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_143_hu_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.829635</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.518522</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32144.5" Y="-23023.1" Z="0.000000"/>
+        <ANGLE VALUE="5.92173"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_144_hs_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.8057</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.12856</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32265.4" Y="-22934.7" Z="0.000000"/>
+        <ANGLE VALUE="5.78654"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_c_144_ht_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>9.96274</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.905704</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32238.5" Y="-22989.3" Z="0.000000"/>
+        <ANGLE VALUE="1.93057"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_b_144_ht_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>8.768</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.8768</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32277.6" Y="-23009.1" Z="0.000000"/>
+        <ANGLE VALUE="4.53382"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_a_144_ht_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>7.58663</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.758663</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32198.6" Y="-23011.2" Z="0.000000"/>
+        <ANGLE VALUE="4.85865"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.2854</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.803375</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32176.6" Y="-22977.8" Z="0.000000"/>
+        <ANGLE VALUE="3.82069"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.07174</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.669836</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32186.2" Y="-22959.1" Z="0.000000"/>
+        <ANGLE VALUE="2.27535"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.7828</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.11425</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32287.1" Y="-22957.7" Z="0.000000"/>
+        <ANGLE VALUE="4.91867"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.89788</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.18618</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32237.8" Y="-22941.2" Z="0.000000"/>
+        <ANGLE VALUE="1.56931"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.841187</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.525742</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32299.4" Y="-22880.9" Z="0.000000"/>
+        <ANGLE VALUE="0.169893"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.49773</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.936082</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32251.1" Y="-22898.6" Z="0.000000"/>
+        <ANGLE VALUE="4.91733"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.924725</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.577953</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32302.6" Y="-22908.4" Z="0.000000"/>
+        <ANGLE VALUE="2.24754"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_144_ht_10</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.63538</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.02211</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32249.2" Y="-23019.2" Z="0.000000"/>
+        <ANGLE VALUE="2.55933"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_144_ht_11</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.1656</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.728498</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32213.3" Y="-22995.5" Z="0.000000"/>
+        <ANGLE VALUE="1.26845"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_144_ht_12</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.11846</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.699039</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32192.2" Y="-22981.9" Z="0.000000"/>
+        <ANGLE VALUE="1.36797"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_144_ht_13</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.74756</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.09222</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32244.6" Y="-22958.8" Z="0.000000"/>
+        <ANGLE VALUE="5.58693"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_144_ht_14</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.64242</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.02651</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="31985.1" Y="-23071.6" Z="0.000000"/>
+        <ANGLE VALUE="4.53382"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hr_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.21386</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.758663</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="31972.5" Y="-23047.2" Z="0.000000"/>
+        <ANGLE VALUE="1.40728"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_hr_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.76369</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.10231</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32138.5" Y="-23054.2" Z="0.000000"/>
+        <ANGLE VALUE="4.85654"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hs_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.04043</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.650267</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32029.3" Y="-23067.7" Z="0.000000"/>
+        <ANGLE VALUE="4.89086"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hs_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.73177</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.08235</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32113.2" Y="-23068.8" Z="0.000000"/>
+        <ANGLE VALUE="2.4579"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hs_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.06292</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.664324</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32091" Y="-23074.3" Z="0.000000"/>
+        <ANGLE VALUE="3.89355"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hs_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.91528</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.19705</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32109.2" Y="-23041.8" Z="0.000000"/>
+        <ANGLE VALUE="6.26286"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hs_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.839786</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.524866</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32031.6" Y="-23098.3" Z="0.000000"/>
+        <ANGLE VALUE="1.41054"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_hs_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.16902</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.730635</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32052.7" Y="-23085.1" Z="0.000000"/>
+        <ANGLE VALUE="2.80401"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_hs_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.47931</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.924567</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32239.6" Y="-23051.5" Z="0.000000"/>
+        <ANGLE VALUE="4.46977"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_c</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_c_145_ht_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>11.4239</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.03854</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32183.4" Y="-23068.2" Z="0.000000"/>
+        <ANGLE VALUE="1.29568"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_b_145_ht_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>10.4147</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.04147</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32199.4" Y="-23042.3" Z="0.000000"/>
+        <ANGLE VALUE="3.36029"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_ht_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.955728</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.59733</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32290.6" Y="-23093.6" Z="0.000000"/>
+        <ANGLE VALUE="0.21227"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_ht_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.47599</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.922495</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32217" Y="-23048.2" Z="0.000000"/>
+        <ANGLE VALUE="2.22357"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_ht_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.856501</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.535313</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32263.6" Y="-23059.3" Z="0.000000"/>
+        <ANGLE VALUE="2.96336"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_ht_5</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.45029</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.90643</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32299.9" Y="-23089.5" Z="0.000000"/>
+        <ANGLE VALUE="1.86864"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_ht_6</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.49944</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.93715</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32160.7" Y="-23047" Z="0.000000"/>
+        <ANGLE VALUE="3.56316"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_ht_7</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.608</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>1.005</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32213.2" Y="-23051.2" Z="0.000000"/>
+        <ANGLE VALUE="5.73976"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_ht_8</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.47808</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.923798</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32280.3" Y="-23047.6" Z="0.000000"/>
+        <ANGLE VALUE="6.25117"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_ht_9</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.55433</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.971459</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32338.3" Y="-23081.9" Z="0.000000"/>
+        <ANGLE VALUE="0.21227"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s1_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s1_lumiseed_a_145_hu_0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>9.22495</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.922495</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32334.9" Y="-23116.6" Z="0.000000"/>
+        <ANGLE VALUE="1.51351"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hu_1</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.21588</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.759923</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32333.8" Y="-23044.5" Z="0.000000"/>
+        <ANGLE VALUE="3.5041"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hu_2</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>1.29425</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.808908</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32363.2" Y="-23083.3" Z="0.000000"/>
+        <ANGLE VALUE="4.63928"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_b</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_b_145_hu_3</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.966597</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.604123</STRING>
+        </PROPERTY>
+      </CHILD>
+      <CHILD TYPE="CPrimPoint">
+        <PT X="32398.2" Y="-23052.6" Z="0.000000"/>
+        <ANGLE VALUE="3.1089"/>
+        <PROPERTY TYPE="string">
+          <NAME>class</NAME>
+          <STRING>prim</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>form</NAME>
+          <STRING>pr_s3_small_lumiseed_a</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>layer</NAME>
+          <STRING>0</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>name</NAME>
+          <STRING>pr_s3_small_lumiseed_a_145_hu_4</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>radius</NAME>
+          <STRING>0.87448</STRING>
+        </PROPERTY>
+        <PROPERTY TYPE="string">
+          <NAME>scale</NAME>
+          <STRING>0.54655</STRING>
+        </PROPERTY>
+      </CHILD>
+    </CHILD>
+  </ROOT_PRIMITIVE>
+</PRIMITIVES>
