@@ -21169,7 +21169,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <LOW>0</LOW>
@@ -21193,11 +21193,11 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <LOW>0</LOW>
@@ -21221,7 +21221,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -22897,7 +22897,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -22905,7 +22905,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <LOW>0</LOW>
@@ -22918,22 +22918,22 @@
       </NAME>
       <X>0</X>
       <Y>0</Y>
-      <ROT>1</ROT>
-      <FLIP>1</FLIP>
+      <ROT>3</ROT>
+      <FLIP>0</FLIP>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <LOW>0</LOW>
@@ -22949,7 +22949,7 @@
       <ROT>2</ROT>
       <FLIP>0</FLIP>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -22957,7 +22957,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -24633,7 +24633,7 @@
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -24657,11 +24657,11 @@
       <ROT>2</ROT>
       <FLIP>1</FLIP>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
@@ -24685,7 +24685,7 @@
       <ROT>0</ROT>
       <FLIP>0</FLIP>
       <MAT_NAMES>
-        <S>&lt; UNUSED &gt;</S>
+        <S>jungle2</S>
       </MAT_NAMES>
       <CUR_EDGES>0</CUR_EDGES>
       <MAT_NAMES>
