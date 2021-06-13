@@ -42,3 +42,9 @@ Further contributions to this repository are copyright (C) their respective auth
 **A**: The license is related to the individual assets only. If you edit a Ryzom texture, you'll have to put the modified one under the same licence as the original Ryzom one. If you create new texture from scratch, it's up to you to decide the licence. *(See: https://forum.unity.com/threads/using-free-art-as-samples-in-packages.150302/)*
 
 When you make a modification to an original Ryzom asset, you must also release any assets which are required to use the modified asset under the same license, along with the modified asset. This means that when you modify a model, but create a texture from scratch for the modified model, you must release the texture under the free license as well, otherwise the modified model wouldn't really be accessible under the free license. If you create an additional texture for an original or modified model from scratch, it's your own decision, since the additional texture does not block the model with the existing texture from being used. In case you use an original Ryzom texture on a model you made from scratch, it's your decision as well, since it does not block the texture from being used. *(See FAL 1.3 Art. 4)*
+
+---
+
+**Q**: Is it possible to license modifications under a different license?
+
+**A**: Modified assets may be relicensed as either CC-BY-SA 3.0, CC-BY-SA 4.0, FAL 1.3, or GPLv3. Contributions to this repository will be considered licensed as CC-BY-SA 3.0 and FAL 1.3. *(See https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses)*
