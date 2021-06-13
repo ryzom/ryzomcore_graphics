@@ -53,4 +53,4 @@ When you make a modification to an original Ryzom asset, you must also release a
 
 **Q**: Who should I give attribution to, and where should this attribution be placed?
 
-**A**: You must give credit to the copyright holders and authors. Relevant parties are listed above.
+**A**: You must give credit to the copyright holders and authors. Relevant parties are listed above. It may be placed anywhere appropriate for the medium in question, for example in the credits of a game.
