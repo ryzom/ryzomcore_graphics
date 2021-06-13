@@ -1,6 +1,6 @@
 # Ryzom Core Graphics Assets
 
-This repository contains the graphics assets from the Ryzom game.
+This repository contains the graphics assets from the Ryzom game. It is maintained by the Ryzom Core open-source community.
 
 Assets in this repository, including all further contributions, are licensed under both CC-BY-SA 3.0 and FAL 1.3.
 
@@ -48,3 +48,9 @@ When you make a modification to an original Ryzom asset, you must also release a
 **Q**: Is it possible to license modifications under a different license?
 
 **A**: Modified assets may be relicensed as either CC-BY-SA 3.0, CC-BY-SA 4.0, FAL 1.3, or GPLv3. Contributions to this repository will be considered licensed as CC-BY-SA 3.0 and FAL 1.3. *(See https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses)*
+
+---
+
+**Q**: Who should I give attribution to, and where should this attribution be placed?
+
+**A**: You must give credit to the copyright holders and authors. Relevant parties are listed above.
