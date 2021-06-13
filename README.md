@@ -37,7 +37,7 @@ Further contributions to this repository are copyright (C) their respective auth
 
 ## FAQ
 
-**Q**: Can I use these assets in a commercial game? Does the license require us to release our own independent assets as CC-BY-SA as well, or does the license consider the assets independently?
+**Q**: Can I use these assets in a commercial game? Does the license require us to release our own independent assets as CC-BY-SA as well, or does the license consider the assets individually?
 
 **A**: The license is related to the individual assets only. If you edit a Ryzom texture, you'll have to put the modified one under the same licence as the original Ryzom one. If you create new texture from scratch, it's up to you to decide the licence. *(See: https://forum.unity.com/threads/using-cc-by-sa-3-0-licensed-art-commercially-your-experience.88393/)*
 
